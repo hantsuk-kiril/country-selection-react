@@ -1,0 +1,23 @@
+.multiselect {
+  position: relative;
+  left: 40%;
+  width: 300px;
+}
+
+.multiselect-input {
+  display: flex;
+  flex-wrap: wrap;
+  border: 1px solid #ccc;
+  padding: 5px;
+}
+
+.selected-tag {
+  background-color: #d8d8d8;
+  padding: 2px 5px;
+  margin: 2px;
+}
+
+#Title {
+  position: relative;
+  left: 40%;
+}
